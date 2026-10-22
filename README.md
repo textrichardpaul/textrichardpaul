@@ -9,7 +9,7 @@ My work is enterprise AI at scale: strategy, adoption, and transformation in lar
 - **VerdaFlux**, backup-power sizing tools that help homeowners size portable power properly (verdaflux.com)
 
 ### Featured projects
-- **Backup Power Sizing Calculator**, size a portable power station for your home from your actual devices, runtimes, and surge watts
+- **Backup Power Sizing Calculator**, size a portable power station for your home from your actual devices, runtimes, and surge watts. [Repo](https://github.com/textrichardpaul/backup-power-sizing-calculator) · [Live demo](https://textrichardpaul.github.io/backup-power-sizing-calculator/)
 - **AI Agent Blueprints (samples)**, practical chief-of-staff / operations agent patterns for small teams
 
 ### How I work
