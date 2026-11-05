@@ -18,4 +18,4 @@ AI-assisted, human-reviewed. Every project here runs, is tested, and does what i
 ### Connect
 - LinkedIn: linkedin.com/in/textrichardpaul
 - Instagram: @textrichardpaul
-- Web: worksmarthq.ca
+- Web: richardpaul.ca
